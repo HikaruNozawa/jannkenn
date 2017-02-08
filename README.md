@@ -12,3 +12,6 @@ Tera Term を 3 つ起動し raspberry pi 3 と SSH 通信します
 もう 2 つをプログラムのある scripts まで移動します
 片方で rosrun mypkg count.py を実行し，もう片方で　rosrun mypkg twice.py を実行します
 count.py 側で数字を入力すると twice.py 側が対応した結果を表示します
+
+動画
+https://www.youtube.com/watch?v=yqTGA40mcYU
